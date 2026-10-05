@@ -1,0 +1,6 @@
+{
+  "name": "Paduan Voice - Anonymous Student Feedback",
+  "description": "A safe, private, and student-focused anonymous feedback platform for the Paduan school community. Speak freely. Be heard. Stay anonymous.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
